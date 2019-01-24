@@ -1,5 +1,2 @@
-import React from "react";
-
-const R = () => <span>gdgd</span>;
-
-export default R;
+import PhonLoginContainer from "./PhoneLoginContainer";
+export default PhonLoginContainer;
